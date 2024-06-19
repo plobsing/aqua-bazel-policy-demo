@@ -13,3 +13,5 @@ registries:
   name: local
   path: registry.yaml
 packages:
+- name: Code-Hex/Neo-cowsay@v2.0.4
+  registry: local
