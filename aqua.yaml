@@ -15,3 +15,4 @@ registries:
 packages:
 - name: Code-Hex/Neo-cowsay@v2.0.4
   registry: local
+- name: bazelbuild/bazelisk@v1.20.0
