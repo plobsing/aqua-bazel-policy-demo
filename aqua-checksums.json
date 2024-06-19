@@ -1,0 +1,39 @@
+{
+  "checksums": [
+    {
+      "id": "github_release/github.com/Code-Hex/Neo-cowsay/v2.0.4/cowsay_2.0.4_Linux_arm64.tar.gz",
+      "checksum": "31C71D7B687AED29AB4BBBCA936F700D4C245ABFDF573BC0166E60DF5C984350",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/Code-Hex/Neo-cowsay/v2.0.4/cowsay_2.0.4_Linux_x86_64.tar.gz",
+      "checksum": "DF52E62CE3C139871FF8D2ABDEAC5484A0AC84989D2625A26FFA601F6470E500",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/Code-Hex/Neo-cowsay/v2.0.4/cowsay_2.0.4_Windows_arm64.zip",
+      "checksum": "6E4301108B708880583AA080C1EC4EFE16DD6F4CC7C2817D3653B3B1E0F4F547",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/Code-Hex/Neo-cowsay/v2.0.4/cowsay_2.0.4_Windows_x86_64.zip",
+      "checksum": "9A7BA1DFD94C526F9FBEF10E8B59F068530E18D2457D0776240FFAB791824CB1",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/Code-Hex/Neo-cowsay/v2.0.4/cowsay_2.0.4_macOS_arm64.tar.gz",
+      "checksum": "47E1975DA03DA7671F30682A4E945944AB0AE4FF115118415BE472F01B6AE1D9",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/Code-Hex/Neo-cowsay/v2.0.4/cowsay_2.0.4_macOS_x86_64.tar.gz",
+      "checksum": "C1493B9CBD1A5849D5BFACE909C1F9FDC040C015594825FE89B85E6BE5A14F5B",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "registries/github_content/github.com/aquaproj/aqua-registry/v4.195.0/registry.yaml",
+      "checksum": "4969FE66930AA0EB36309C2D52A69732D506AC66863A75F4D910A845C87A7DD4",
+      "algorithm": "sha256"
+    }
+  ]
+}
