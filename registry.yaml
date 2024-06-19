@@ -1,6 +1,9 @@
 packages:
   - type: github_release
     repo_owner: Code-Hex
+    files:
+    - name: cowsay
+    - name: cowthink
     repo_name: Neo-cowsay
     description: cowsay is reborn. Neo Cowsay has written in Go
     version_constraint: "false"
